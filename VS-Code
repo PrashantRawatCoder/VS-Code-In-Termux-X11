@@ -1,0 +1,4 @@
+pkill -f com.termux.x11
+termux-x11 :1 &
+am start --user 0 -n com.termux.x11/com.termux.x11.MainActivity
+env DISPLAY=:1 dbus-launch --exit-with-session code-oss --wait
