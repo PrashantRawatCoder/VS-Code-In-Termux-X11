@@ -14,10 +14,10 @@ Copy this repo in your termux home directory :
 `git clone https://github.com/PrashantRawatCoder/VS-Code-In-Termux-X11`
 
 Run Install.sh:
-`cd VS-Code-In-Termux-X11
-chmod +x install.sh VS-Code
-./install.sh
-`
+</br>`cd VS-Code-In-Termux-X11`
+</br>`chmod +x install.sh VS-Code`
+</br>`./install.sh`
+</br>
 after this make a termux widget on your home screen , VS-Code will appear on that widget.
 _
 # Usage :
